@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vh;
+    height: auto;
+    background: black;
+}
+section{
+    display: flex;
+    height: auto;
+    width: auto;
+    border-radius: 5px;
+    border-width: 2px;
+}
+div{
+    background: lightgreen;
+    flex-direction: column;
+    width: 33%;
+    border-radius: 7px;
+    border-width: 3px;
+    height: auto;
+    padding: 20px;
+    margin: 20px;
+
+}
+h1{
+    padding: 10px;
+    text-align: end;
+    text-decoration: wavy;
+    text-size-adjust:20px ;
+
+}
